@@ -1,4 +1,4 @@
-def bsearch(arr, key)
+def binarysearch(arr, key)
   min = 0; max = arr.size - 1 
   while min <= max
     mid = min + (max-min)/2
