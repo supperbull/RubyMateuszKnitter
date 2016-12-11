@@ -2,7 +2,7 @@
 
 1. [ ] [Notatki z Ruby](ruby.md)
 2. [ ] [Notatki z RSpec](rspec.md)
-3. [ ] [Zadanie 1 (zaliczenie)](/rspec) – deadline 13.11.2016
+3. [ ] [Zadanie 1 (zaliczenie)](./rspec) – deadline 13.11.2016
   - przykładowe projekty na zaliczenie –
   [03-rspec](https://github.com/egzamin/tar/tree/master/labs/03-rspec),
   [04-write-test](https://github.com/egzamin/tar/tree/master/labs/04-write_tests)
